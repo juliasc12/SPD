@@ -1,0 +1,13 @@
+Conceitos utilizados de MPI e suas operações coletivas como 
+broadcast, gather e scatter e tbm um pouco do funcionamento de 
+processamento de imagens.
+
+Como utilizei MPI calculei o speed up da execução do algoritmo de 
+suavização de um sequencial em relação a um algoritmo que foi dividido
+seu processamento em 5 processos
+
+Durante a execução e comparação dos tempos eu deixei poucos processos
+abertos pra que pudesse focar no tempo de execução dos mesmos, ambos foram
+executados praticamente no msm momento e nas mesmas condições
+
+Vídeo no yt: https://youtu.be/qZC013i2mic
